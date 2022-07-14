@@ -5,5 +5,8 @@
   <h1>init</h1>
 </template>
 
-<style scoped>
+<style lang="scss">
+h1 {
+  font-size: 2rem;
+}
 </style>
